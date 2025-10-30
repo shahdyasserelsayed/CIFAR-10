@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-datasets
+numpy
+matplotlib
+seaborn
+pandas
+pillow
+flask
+gunicorn
+scikit-learn
