@@ -8,3 +8,4 @@ pillow
 flask
 gunicorn
 scikit-learn
+streamlit
